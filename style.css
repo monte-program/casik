@@ -1,0 +1,176 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+h1{
+    font-size: 30px;
+    color: red;
+    position: absolute;
+    top: 71px;
+    left: 472px;
+    z-index: 1;
+}
+
+
+
+
+.seven-one{
+    transform: scale(0.12) ;
+    position: absolute;
+    top: -150px;
+    left: -30px;
+    z-index: 6;
+}
+.seven-two{
+    z-index: 6;
+    transform: scale(0.12) ;
+    position: absolute;
+    top: -150px;
+    left: 99px;
+}
+.seven-three{
+    z-index: 6;
+    transform: scale(0.12) ;
+    position: absolute;
+    top: -150px;
+    left: 231px;
+}
+.cheren-one{
+    transform: scale(0.6) ;
+    z-index: 5;
+    position: absolute;
+    top: 244px;
+    left: 364px;
+}
+.cheren-two{
+    z-index: 5;
+    transform: scale(0.6) ;
+    position: absolute;
+    top: 244px;
+    left: 497px;
+}
+.cheren-three{
+    z-index: 5;
+    transform: scale(0.6) ;
+    position: absolute;
+    top: 244px;
+    left: 628px;
+}
+.money-one{
+    z-index: 4; 
+    transform: scale(0.5) ;
+    position: absolute;
+    top: 232px;
+    left: 352px;
+}
+.money-two{
+    z-index: 4;
+    transform: scale(0.5) ;
+    position: absolute;
+    top: 232px;
+    left: 483px;
+}
+.money-three{
+    z-index: 4;
+    transform: scale(0.5) ;
+    position: absolute;
+    top: 232px;
+    left: 617px;
+}
+.dol-one{
+    z-index: 3;
+    transform: scale(0.15) ;
+    position: absolute;
+    top: -5px;
+    left: 119px;
+}
+.dol-two{
+    z-index: 3;
+    transform: scale(0.15) ;
+    position: absolute;
+    top: -5px;
+    left: 245px;
+}
+.dol-three{
+    z-index: 3;
+    transform: scale(0.15) ;
+    position: absolute;
+    top: -5px;
+    left: 380px;
+}
+.almas-one{
+     z-index: 2;
+    transform: scale(0.6) ;
+    position: absolute;
+    top: 246px;
+    left: 364px;
+}
+.almas-two{
+    z-index: 2;
+    transform: scale(0.6) ;
+    position: absolute;
+    top: 246px;
+    left: 497px;
+}
+.almas-three{
+    z-index: 2;
+    transform: scale(0.6) ;
+    position: absolute;
+    top: 246px;
+    left: 629px;
+}
+
+
+.man{
+    z-index: 8;
+}
+
+
+.cont{
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+.img{
+    position: absolute;
+    top: 229px;
+    left: 519px;
+    transform: scale(3);
+}
+
+
+.but{
+    background: gray;
+    position: absolute;
+    top: 199px;
+    left: 818px;
+    width: 48px;
+    height: 193px;
+    opacity: 0;
+    z-index: 3;
+}
+.maney{
+    position: absolute;
+    top: 60px;
+    right: 190px;
+    font-size: 20px;
+}
+
+
+.Group{
+    transform: scale(0.4);
+    z-index: 3;
+    position: absolute;
+    top: -50px;
+    right: -240px;
+}
+
+.Group2{
+    transform: scale(0.4);
+    z-index: -1;
+    position: absolute;
+    top: -50px;
+    right: 750px;
+}
+
+
